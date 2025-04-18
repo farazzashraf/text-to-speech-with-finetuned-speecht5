@@ -2,9 +2,7 @@
 
 This project fine-tunes [Microsoft's SpeechT5](https://huggingface.co/microsoft/speecht5_tts) model on the [LJSpeech](https://huggingface.co/datasets/keithito/lj_speech) dataset to synthesize custom, high-quality speech using Hugging Face Transformers and SpeechBrain.
 
-## 🚀 Live Demo
-
-🧠 Check out the fine-tuned model here:  
+## Check out the fine-tuned model here:  
 👉 [farazashraf/speecht5_finetuned_enhanced](https://huggingface.co/farazashraf/speecht5_finetuned_enhanced)
 
 ---
