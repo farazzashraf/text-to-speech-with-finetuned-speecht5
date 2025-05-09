@@ -13,7 +13,6 @@ This project fine-tunes [Microsoft's SpeechT5](https://huggingface.co/microsoft/
 - 🔹 Generated speaker embeddings using `speechbrain/spkrec-xvect-voxceleb`
 - 🔹 Used `SpeechT5Processor` for feature extraction and tokenization
 - 🔹 Fine-tuned the model with `Trainer` from Hugging Face
-- 🔹 Tracked training with MLflow
 - 🔹 Uploaded final model to Hugging Face Hub
 
 ---
