@@ -20,4 +20,4 @@ This project fine-tunes [Microsoft's SpeechT5](https://huggingface.co/microsoft/
 ## 🛠️ Installation
 
 ```bash
-pip install transformers sentencepiece soundfile datasets mlflow speechbrain num2words librosa huggingsound
+pip install transformers sentencepiece soundfile datasets speechbrain num2words librosa huggingsound
